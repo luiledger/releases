@@ -17,6 +17,7 @@
     </picture>
   </a>
 </p>
+
 [Lui Ledger](https://luiledger.com) is a personal bookkeeping desktop application that keeps your bookkeeping on your own machine, encrypted, with dashboards you customize.
 No cloud account, no subscription.
 
