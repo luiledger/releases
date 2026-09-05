@@ -1,7 +1,22 @@
 <p align="center">
-  <a href="https://luiledger.com" target="_blank"><img width="400" src="/logo.svg" alt="Lui Ledger logo"></a>
+  <a href="https://luiledger.com" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://www.luiledger.com/img/luiledger-white-logo.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://www.luiledger.com/img/luiledger-colored-logo.svg"
+      />
+      <img
+        width="400"
+        src="https://www.luiledger.com/img/luiledger-colored-logo.svg"
+        alt="Lui Ledger logo"
+      />
+    </picture>
+  </a>
 </p>
-
 [Lui Ledger](https://luiledger.com) is a personal bookkeeping desktop application that keeps your bookkeeping on your own machine, encrypted, with dashboards you customize.
 No cloud account, no subscription.
 
