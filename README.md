@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://luiledger.com" target="_blank"><img width="400" src="/luiledger-colored-logo.svg" alt="Lui Ledger logo"></a>
+  <a href="https://luiledger.com" target="_blank"><img width="400" src="/logo.svg" alt="Lui Ledger logo"></a>
 </p>
 
 [Lui Ledger](https://luiledger.com) is a personal bookkeeping desktop application that keeps your bookkeeping on your own machine, encrypted, with dashboards you customize.
